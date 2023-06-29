@@ -1,3 +1,8 @@
+'''
+Script made by researcher -> Xienim. If you are going to copy at least leave my message here :/
+TW: https://twitter.com/Hachiman_Xienim
+'''
+
 def string_to_hex(string):
     hex_string = ""
     for char in string:
