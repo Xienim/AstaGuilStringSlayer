@@ -16,4 +16,4 @@ After that you can run the script and check the output with the decrypted string
 python3 AstaGuilStringSlayer.py
 ```
 &nbsp;
-![App Screenshot]([https://github.com/Xienim/AstaGuilStringSlayer/blob/main/AstaGui.png])
+![App Screenshot](https://github.com/Xienim/AstaGuilStringSlayer/blob/main/AstaGui.png)
